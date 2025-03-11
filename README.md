@@ -18,3 +18,4 @@ A mini guide to help those struggling with weak induction for their discrete mat
 # Additional Note:
 
 - Feel free to fork the repo if you would like to expand on this guide further.
+- Hopefully everything is alrite.....
